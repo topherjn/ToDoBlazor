@@ -72,3 +72,4 @@ D:\projects\ToDoBlazor\ToDoBlazor\obj\Debug\net9.0\refint\ToDoBlazor.dll
 D:\projects\ToDoBlazor\ToDoBlazor\obj\Debug\net9.0\ToDoBlazor.pdb
 D:\projects\ToDoBlazor\ToDoBlazor\obj\Debug\net9.0\ToDoBlazor.genruntimeconfig.cache
 D:\projects\ToDoBlazor\ToDoBlazor\obj\Debug\net9.0\ref\ToDoBlazor.dll
+D:\projects\ToDoBlazor\ToDoBlazor\obj\Debug\net9.0\ToDoBlazor.sourcelink.json
